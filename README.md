@@ -1,13 +1,8 @@
-Here’s a well-formatted version of your README content for your GitHub project:
-
----
-
 # Convert JPEG to PNG
 
 This project contains a simple Python script to change the file extension from `.jpeg` to `.png`.
 
 ## Requirements
-
 - **Pillow module**
 
 You can install it via pip:
